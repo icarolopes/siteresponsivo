@@ -1,0 +1,21 @@
+{
+  "name": "siteresponsivo",
+  "description": "Criação de um site responsivo, que utiliza sass, bootstrap, node, bower, gulp, e wordpress",
+  "main": "index.js",
+  "authors": [
+    "Icaro Lopes"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/icarolopes/siteresponsivo",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

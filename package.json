@@ -1,0 +1,22 @@
+{
+  "name": "siteresponsivo",
+  "version": "1.0.0",
+  "description": "Criação de um site responsivo, que utiliza sass, bootstrap, node, bower, gulp, e wordpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icarolopes/siteresponsivo.git"
+  },
+  "author": "Icaro Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icarolopes/siteresponsivo/issues"
+  },
+  "homepage": "https://github.com/icarolopes/siteresponsivo#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
